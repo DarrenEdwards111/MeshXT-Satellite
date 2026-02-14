@@ -1,4 +1,4 @@
-# MeshXT-Satellite — Meshtastic to Satellite Bridge
+# MeshXT-Satellite — Meshtastic to Satellite Gateway
 
 > Send Meshtastic messages via satellite. No internet, no cell towers, no line of sight needed.
 
