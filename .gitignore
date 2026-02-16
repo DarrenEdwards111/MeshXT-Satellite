@@ -1,0 +1,7 @@
+.npmrc
+.env
+secrets/
+.keys/
+*.key
+*.pem
+*.der
